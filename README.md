@@ -26,7 +26,7 @@ Math Joy là nền tảng giáo dục trực tuyến chuyên biệt dành cho h�
 
 ### ✅ 1. **Hệ thống đăng ký & xác thực**
 
-![Ảnh minh họa bài học](./public/demo/)
+![Ảnh minh họa bài học](./public/demo/auth.png)
 
 - **Đăng ký tài khoản** với email/mật khẩu hoặc Google OAuth
 - **Xác thực email** qua mã OTP 6 chữ số
@@ -39,7 +39,7 @@ Math Joy là nền tảng giáo dục trực tuyến chuyên biệt dành cho h�
 
 ### 📚 2. **Hệ thống khóa học & bài học**
 
-![Ảnh minh họa bài học](./public/demo/)
+![Ảnh minh họa bài học](./public/demo/course.png)
 
 - **Danh mục khóa học**: Phân loại theo lớp học (1-5) và độ khó
 - **Chi tiết khóa học**: Mô tả chi tiết, yêu cầu và kết quả học tập mong đợi
@@ -52,7 +52,7 @@ Math Joy là nền tảng giáo dục trực tuyến chuyên biệt dành cho h�
 
 ### 🎮 3. **Hệ thống bài tập & trò chơi tương tác**
 
-![Ảnh minh họa bài học](./public/demo/)
+![Ảnh minh họa bài học](./public/demo/interact.png)
 
 - **Bài tập cơ bản**: Từ những phép tính đơn giản đến các dạng bài phức tạp
 - **Thử thách nâng cao**: Các bài toán khó giúp phát triển tư duy logic
@@ -64,7 +64,7 @@ Math Joy là nền tảng giáo dục trực tuyến chuyên biệt dành cho h�
 
 ### 👨‍🎓 4. **Dashboard học sinh**
 
-![Ảnh minh họa bài học](./public/demo/)
+![Ảnh minh họa bài học](./public/demo/dashboard.png)
 
 - **Tổng quan học tập**: Thống kê khóa học đã đăng ký, đang học, đã hoàn thành
 - **Khóa học của tôi**: Danh sách khóa học với tiến trình học tập chi tiết
@@ -77,7 +77,7 @@ Math Joy là nền tảng giáo dục trực tuyến chuyên biệt dành cho h�
 
 ### 🏆 5. **Hệ thống thành tích & động lực**
 
-![Ảnh minh họa bài học](./public/demo/)
+![Ảnh minh họa bài học](./public/demo/achieve.png)
 
 - **Lịch sử học tập**: Theo dõi chi tiết quá trình phát triển
 - **Quiz System**: Hệ thống kiểm tra với nhiều dạng câu hỏi
@@ -89,7 +89,7 @@ Math Joy là nền tảng giáo dục trực tuyến chuyên biệt dành cho h�
 
 ### 🛒 6. **Hệ thống thanh toán & mua khóa học**
 
-![Ảnh minh họa bài học](./public/demo/)
+![Ảnh minh họa bài học](./public/demo/purchase.png)
 
 - **Giỏ hàng thông minh**: Thêm nhiều khóa học và quản lý đơn hàng
 - **Checkout Flow**: 3 bước thanh toán với UI/UX tối ưu
@@ -102,7 +102,7 @@ Math Joy là nền tảng giáo dục trực tuyến chuyên biệt dành cho h�
 
 ### 🔧 7. **Hệ thống quản trị (Admin)**
 
-![Ảnh minh họa bài học](./public/demo/)
+![Ảnh minh họa bài học](./public/demo/admin.png)
 
 - **Dashboard quản trị**: Thống kê tổng quan về người dùng và khóa học
 - **Course Management**: Tạo, chỉnh sửa, ẩn khóa học và bài học
